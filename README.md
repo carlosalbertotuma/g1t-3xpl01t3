@@ -22,6 +22,17 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 - `awk`: Para formatar a saída.
 - `sort` e `uniq`: Para manipulação e organização de dados.
 
+### ScreeShot ####
+
+![image](https://github.com/user-attachments/assets/0da16705-4d47-4be6-be8b-820667651870)
+
+
+![image](https://github.com/user-attachments/assets/a467b9a2-7404-49a9-8534-7ff8457e6a3d)
+
+![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
+
+https://img.shields.io/badge/:badgeContent
+
 ## Como Usar
 
 ### Passo 1: Preparação
@@ -31,12 +42,5 @@ Certifique-se de ter as dependências necessárias instaladas:
 ```bash
 sudo apt-get install curl jq grep awk
 
-### ScreeShot
 
-![image](https://github.com/user-attachments/assets/0da16705-4d47-4be6-be8b-820667651870)
-
-
-![image](https://github.com/user-attachments/assets/a467b9a2-7404-49a9-8534-7ff8457e6a3d)
-
-![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
