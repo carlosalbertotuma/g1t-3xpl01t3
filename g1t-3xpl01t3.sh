@@ -48,13 +48,11 @@ fetch_repos() {
   local search_query="$query+$keyword"
   local response=$(curl -s "https://api.github.com/search/repositories?q=$search_query")
 
-  # Verifica se a resposta é nula ou não contém itens
   if [ "$(echo "$response" | jq -r '.items // empty')" == "" ]; then
     echo -e "\e[1;32mNenhum resultado para: $search_query\e[0m"
     return
   fi
 
-  # Extrai URLs e descrições dos repositórios
   echo "$response" | jq -r '
     .items[] | 
     {
