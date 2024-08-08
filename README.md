@@ -33,9 +33,9 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
-Versao
-1- Pesquisa pela palavra no git em busca de CVE, Vulnerability, Exploit, Paylod.
-2- Atual.
+# Versao
+- 1- Pesquisa pela palavra no git em busca de CVE, Vulnerability, Exploit, Paylod.
+- 2- Atual.
 
 
 ## Como Usar
