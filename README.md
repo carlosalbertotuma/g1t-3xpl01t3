@@ -31,7 +31,6 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
-https://img.shields.io/badge/:badgeContent
 
 ## Como Usar
 
