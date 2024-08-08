@@ -40,6 +40,10 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ## Como Usar
 
+chmod +x G1t-3xpl01t.sh
+
+./G1t-3xpl01t.sh confluence
+
 ### Passo 1: Preparação
 
 Certifique-se de ter as dependências necessárias instaladas:
