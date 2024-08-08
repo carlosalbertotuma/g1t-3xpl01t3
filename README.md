@@ -44,7 +44,7 @@ chmod +x G1t-3xpl01t.sh
 
 ./G1t-3xpl01t.sh confluence
 
-Ps. Caso a pesquisa seja com palavra composta utilize o %20 para espaço 
+Ps. Caso a pesquisa, utilize palavra composta. utilize o "%20" para espaço 
 
 Ex: ./G1t-3xpl01t.sh Microsoft%20Outlook
 
