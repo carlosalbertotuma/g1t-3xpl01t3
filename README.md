@@ -2,13 +2,15 @@
 
 ## Descrição
 
-O **CVE GitHub Exploits Finder** é uma ferramenta destinada a profissionais de segurança, entusiastas de hacking e equipes de Red Team. O script automatiza a busca de informações relacionadas a CVEs (Common Vulnerabilities and Exposures) e explora o GitHub para encontrar repositórios relacionados a exploits, PoCs (Proof of Concept) e vulnerabilidades. 
+O **G1t-3xpl01t** é uma ferramenta destinada a profissionais de segurança, entusiastas de hacking e equipes de Red Team. O script automatiza a busca de informações relacionadas a CVEs (Common Vulnerabilities and Exposures) e explora o GitHub para encontrar repositórios relacionados a exploits, PoCs (Proof of Concept) e vulnerabilidades. 
 
 Esta ferramenta pode ser usada para:
 
 - Localizar CVEs associadas a palavras-chave específicas.
 - Buscar por repositórios no GitHub que contenham informações sobre exploits, PoCs e vulnerabilidades associadas a essas CVEs.
 - Obter escores EPS e percentis das CVEs para avaliar a gravidade e o impacto potencial.
+- utiliza sleep para contornar os limites de pesquisa do github sem utilização e API.
+- Quabra a pesquisa de CVEs ao pesquisar scores no EPS, bypassando o limite de pesquisa de 100 por vez.
 
 ## Aviso Legal
 
@@ -31,6 +33,10 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
+Versao
+1- Pesquisa pela palavra no git em busca de CVE, Vulnerability, Exploit, Paylod.
+2- Atual.
+
 
 ## Como Usar
 
@@ -38,8 +44,9 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 Certifique-se de ter as dependências necessárias instaladas:
 
-```bash
 sudo apt-get install curl jq grep awk
 
 
+### Desenvolvedor
 
+By Carlos Tuma - bl4dsc4n
