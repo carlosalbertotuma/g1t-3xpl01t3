@@ -10,7 +10,7 @@ Esta ferramenta pode ser usada para:
 - Buscar por repositórios no GitHub que contenham informações sobre exploits, PoCs e vulnerabilidades associadas a essas CVEs.
 - Obter escores EPS e percentis das CVEs para avaliar a gravidade e o impacto potencial.
 - utiliza sleep para contornar os limites de pesquisa do github sem utilização de API.
-- Quabra a pesquisa de CVEs ao pesquisar scores no EPS, bypassando o limite de pesquisa de 100 por vez.
+- Quebra a pesquisa de CVEs ao pesquisar scores no EPS, bypassando o limite de pesquisa de 100 por vez.
 
 ## Aviso Legal
 
