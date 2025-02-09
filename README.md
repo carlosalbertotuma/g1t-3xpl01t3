@@ -1,4 +1,4 @@
-# G1t-3xpl01t 
+# G1t-3xpl01t v. 2.0
 
 ## Descrição
 
