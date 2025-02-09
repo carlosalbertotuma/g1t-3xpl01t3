@@ -47,20 +47,16 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
-# Versao
-- 1- Pesquisa pela palavra no git em busca de CVE, Vulnerability, Exploit, Paylod.
-- 2- Atual.
-
 
 ## Como Usar
 
 chmod +x G1t-3xpl01t.sh
 
-./G1t-3xpl01t.sh confluence
+./G1t-3xpl01t.sh -a confluence
 
 Ps. Caso a pesquisa, utilize palavra composta. utilize o "%20" para espaço 
 
-Ex: ./G1t-3xpl01t.sh Microsoft%20Outlook
+Ex: ./G1t-3xpl01t.sh -a Microsoft%20Outlook
 
 ### Passo 1: Preparação
 
