@@ -50,6 +50,19 @@ chmod +x G1t-3xpl01t.sh
 
 ./G1t-3xpl01t.sh -a confluence
 
+./G1t-3xpl01t.sh -b confluence
+
+./G1t-3xpl01t.sh -c confluence
+
+procurando por anos especificos separados por espaço 2021 2022
+
+./G1t-3xpl01t.sh -c confluence 2021 2022
+
+./G1t-3xpl01t.sh -d confluence
+
+procurando por anos especificos separados por espaço 2021 2022
+./G1t-3xpl01t.sh -d confluence 2021 2022
+
 Ps. Caso a pesquisa, utilize palavra composta. utilize o "%20" para espaço 
 
 Ex: ./G1t-3xpl01t.sh -a Microsoft%20Outlook
