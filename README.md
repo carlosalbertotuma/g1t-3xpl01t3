@@ -26,6 +26,8 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ### ScreeShot ####
 
+![image](https://github.com/user-attachments/assets/2278bba2-6d53-4ee5-952e-7793e4f76fcc)
+
 ![image](https://github.com/user-attachments/assets/77f7f6ec-cc42-4100-a100-316f1be562d3)
 
 ![image](https://github.com/user-attachments/assets/a05ff485-c83a-4da3-8fec-f219885fe7b7)
