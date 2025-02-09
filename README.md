@@ -34,6 +34,8 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/5b7f5d2e-dfd5-47e5-94c9-bd642456fdbd)
 
+![image](https://github.com/user-attachments/assets/50df860a-da24-4572-ba7a-d86402199d27)
+
 
 ![image](https://github.com/user-attachments/assets/0da16705-4d47-4be6-be8b-820667651870)
 
