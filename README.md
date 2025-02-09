@@ -26,6 +26,15 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ### ScreeShot ####
 
+![image](https://github.com/user-attachments/assets/77f7f6ec-cc42-4100-a100-316f1be562d3)
+
+![image](https://github.com/user-attachments/assets/a05ff485-c83a-4da3-8fec-f219885fe7b7)
+
+![image](https://github.com/user-attachments/assets/41882b8b-038d-4f56-b54f-a5ed3e75585a)
+
+![image](https://github.com/user-attachments/assets/5b7f5d2e-dfd5-47e5-94c9-bd642456fdbd)
+
+
 ![image](https://github.com/user-attachments/assets/0da16705-4d47-4be6-be8b-820667651870)
 
 
