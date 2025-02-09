@@ -40,7 +40,6 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b6cc75d1-b0bb-4f37-b440-8bd237808486)
 
-![image](https://github.com/user-attachments/assets/0da16705-4d47-4be6-be8b-820667651870)
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
