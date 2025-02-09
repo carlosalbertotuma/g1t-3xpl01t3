@@ -386,7 +386,7 @@ process_cves() {
 
 
 
-if [ $# -ne 2 ]; then
+if [ $# -eq 0 ]; then
     banner
     mododeuso
     exit 1
