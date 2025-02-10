@@ -7,6 +7,7 @@ O **G1t-3xpl01t** é uma ferramenta destinada a profissionais de segurança, ent
 Esta ferramenta pode ser usada para:
 
 - Localizar CVEs associadas a palavras-chave específicas.
+- Localiza CVEs, score e descrição das mesma
 - Buscar por repositórios no GitHub que contenham informações sobre exploits, PoCs e vulnerabilidades associadas a essas CVEs.
 - Obter escores EPS e percentis das CVEs para avaliar a gravidade e o impacto potencial.
 - utiliza sleep para contornar os limites de pesquisa do github sem utilização de API.
