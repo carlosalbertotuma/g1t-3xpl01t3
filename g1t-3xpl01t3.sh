@@ -462,7 +462,7 @@ while getopts ":a:b:c:d:h:" opt; do
       banner
       mododeuso
       ;;
-    \? )
+    * )
       banner
       mododeuso
       
