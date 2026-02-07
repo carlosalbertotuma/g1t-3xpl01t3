@@ -44,6 +44,8 @@ Este script é fornecido "como está" e é destinado apenas para fins educaciona
 
 ![image](https://github.com/user-attachments/assets/b25c8149-9fd4-4006-9158-772701d7c509)
 
+<img width="588" height="195" alt="image" src="https://github.com/user-attachments/assets/f0fae3c0-a12c-45f5-a238-f0a7ab12b042" />
+
 
 ## Como Usar
 
