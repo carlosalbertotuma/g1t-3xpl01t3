@@ -1,4 +1,4 @@
-# G1t-3xpl01t v. 2.0
+# G1t-3xpl01t v. 2.1
 ![image](https://github.com/user-attachments/assets/2278bba2-6d53-4ee5-952e-7793e4f76fcc)
 ## Descrição
 
