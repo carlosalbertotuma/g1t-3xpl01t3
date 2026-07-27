@@ -1,5 +1,7 @@
 # G1t-3xpl01t v. 2.1
-![image](https://github.com/user-attachments/assets/2278bba2-6d53-4ee5-952e-7793e4f76fcc)
+
+<img width="921" height="999" alt="image" src="https://github.com/user-attachments/assets/bccada26-9db5-49d9-8f9c-f8f58f809e09" />
+
 ## Descrição
 
 O **G1t-3xpl01t** é uma ferramenta destinada a profissionais de segurança, entusiastas de hacking e equipes de Red Team. O script automatiza a busca de informações relacionadas a CVEs (Common Vulnerabilities and Exposures) e explora o GitHub para encontrar repositórios relacionados a exploits, PoCs (Proof of Concept) e vulnerabilidades. 
